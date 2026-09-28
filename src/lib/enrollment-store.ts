@@ -77,7 +77,7 @@ export const useEnrollmentStore = create<EnrollmentStore>()(
     }),
     
     {
-      name: "lab16-2569-680610657",
+      name: "lab16-2569-680610659",
       partialize: (state) => ({
         students: state.students,
         courses: state.courses,
